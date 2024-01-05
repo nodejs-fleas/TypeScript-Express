@@ -2,7 +2,6 @@
     "name": "typescript-express",
     "version": "0.0.0",
     "private": true,
-    "description": "TypeScropt + Express AuthorQQ: 2695466869",
     "scripts": {
         "start": "ts-node bin/www.ts"
     },
